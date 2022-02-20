@@ -21,7 +21,7 @@ room.
 table.
 plates.
 
-% Fakty
+% Facts
 
 hue(blue).
 hue(black).
