@@ -1,0 +1,2 @@
+# Systemywspomagania
+ Sytemy Wspomagania zadanie
